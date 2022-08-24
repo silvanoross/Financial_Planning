@@ -85,7 +85,7 @@ Here are a few snippets of what you can find in this project
 
 ### 10 Year Simulation Plot:
 
-![cumulative_10](Iages/cumulative_10.png)
+![cumulative_10](Images/cumulative_10.png)
 
 ### 10 Year Simulation Distribution:
 
