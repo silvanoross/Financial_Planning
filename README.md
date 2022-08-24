@@ -69,7 +69,7 @@ To do this you create a new text file from the notebook launcher and rename it *
 
 Next open **'financial_planning_tools.ipynb'** and click the double arrow to run the notebook. Alternatively you can run each cell individually.
 
-This will run the entire notebook. Make sure to follow the pseudocode to see what has been coded and what is being displayed.
+Make sure to follow the pseudocode to see the coding logic and fully understand what is being displayed.
 
 Note - This may take a while to run as the Monte Carlo Simulation typically has a faily long run time. Expect around 3-5 minutes of waiting before notebook is complete.
 
