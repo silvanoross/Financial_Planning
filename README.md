@@ -23,9 +23,7 @@ Libraries used:
 
 [Alpaca Trade API](https://alpaca.markets/docs/) - API for the Alpaca trading platform
 
-### MC Forecast Tools - A copy of this module is included in the downloadable files for this project
-
-
+**MC Forecast Tools** - A copy of this module is included in the downloadable files for this project
 
 ---
 
