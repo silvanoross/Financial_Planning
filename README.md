@@ -55,7 +55,7 @@ To run this jupyter lab notebook you will need to use GitBash and navigate to wh
 
 Next you will need to perform the following
 
-![Activate](images/activate.png)
+![Activate](Images/activate.png)
 
 This will open a jupyter lab notebook in your default browser. 
 
@@ -63,7 +63,7 @@ Important: You are going to need to create a **.env** file and populate it with 
 
 Here is what it should look like:
 
-![.env](images/env_sample.png)
+![.env](Images/env_sample.png)
 
 To do this you create a new text file from the notebook launcher and rename it **.env** make sure to remove the **.txt** portion.
 
@@ -81,15 +81,15 @@ Here are a few snippets of what you can find in this project
 
 ### JSON Data from API:
 
-![json_data](images/json_api_data.png)
+![json_data](Images/json_api_data.png)
 
 ### 10 Year Simulation Plot:
 
-![cumulative_10](images/cumulative_10.png)
+![cumulative_10](Iages/cumulative_10.png)
 
 ### 10 Year Simulation Distribution:
 
-![distribution](images/distribution_10.png)
+![distribution](Images/distribution_10.png)
 
 ---
 
