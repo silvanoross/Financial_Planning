@@ -57,7 +57,7 @@ Next you will need to perform the following
 
 ![Activate](Images/activate.png)
 
-This will open a jupyter lab notebook in your default browser. 
+This will open a jupyter lab notebook in your default browser with a special paramater to allow the .env file to be seen as it is usually a hidden file type. 
 
 Important: You are going to need to create a **.env** file and populate it with your own personal Alpaca API Key and Secret Key.
 
@@ -67,7 +67,7 @@ Here is what it should look like:
 
 To do this you create a new text file from the notebook launcher and rename it **.env** make sure to remove the **.txt** portion.
 
-Next open **'financial_planning_tools.ipynb'** and click ![double_arrow](images/doube_arrow.png)
+Next open **'financial_planning_tools.ipynb'** and click ![double_arrow](images/double_arrow.png)
 
 This will run the entire notebook. Make sure to follow the pseudocode to see what has been coded and what is being displayed.
 
