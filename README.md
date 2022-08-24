@@ -67,7 +67,7 @@ Here is what it should look like:
 
 To do this you create a new text file from the notebook launcher and rename it **.env** make sure to remove the **.txt** portion.
 
-Next open **'financial_planning_tools.ipynb'** and click ![double_arrow](Images/double_arrow.png)
+Next open **'financial_planning_tools.ipynb'** and click the double arrow to run the notebook. Alternatively you can run each cell individually.
 
 This will run the entire notebook. Make sure to follow the pseudocode to see what has been coded and what is being displayed.
 
